@@ -1,4 +1,4 @@
-<?php namespace Fiotech\BlogSearch;
+<?php namespace Nolan\BlogSearch;
 
 use System\Classes\PluginBase;
 
