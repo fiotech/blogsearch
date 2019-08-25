@@ -1,4 +1,4 @@
-<?php namespace PKleindienst\BlogSearch\Components;
+<?php namespace Fiotech\BlogSearch\Components;
 
 use Cms\Classes\ComponentBase;
 use Cms\Classes\Page;
@@ -6,7 +6,7 @@ use RainLab\Blog\Models\Category as BlogCategory;
 
 /**
  * Search Form Component
- * @package PKleindienst\BlogSearch\Components
+ * @package Fiotech\BlogSearch\Components
  */
 class SearchForm extends ComponentBase
 {
