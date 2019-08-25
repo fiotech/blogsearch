@@ -1,4 +1,4 @@
-<?php namespace PKleindienst\BlogSearch;
+<?php namespace Fiotech\BlogSearch;
 
 use System\Classes\PluginBase;
 
@@ -22,9 +22,9 @@ class Plugin extends PluginBase
         return [
             'name'        => 'Blog Search',
             'description' => 'Adds a search function to the blog',
-            'author'      => 'Pascal Kleindienst',
+            'author'      => 'Fiotech',
             'icon'        => 'icon-search',
-            'homepage'    => 'https://github.com/PascalKleindienst/october-blogsearch-extension'
+            'homepage'    => 'https://github.com/fiotech/blogsearch'
         ];
     }
 
@@ -34,8 +34,8 @@ class Plugin extends PluginBase
     public function registerComponents()
     {
         return [
-            'PKleindienst\BlogSearch\Components\SearchForm'   => 'searchForm',
-            'PKleindienst\BlogSearch\Components\SearchResult' => 'searchResult'
+            'Fiotech\BlogSearch\Components\SearchForm'   => 'searchForm',
+            'Fiotech\BlogSearch\Components\SearchResult' => 'searchResult'
         ];
     }
 
