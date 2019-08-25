@@ -1,4 +1,4 @@
-# Blog Search Extension [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/PascalKleindienst/october-blogsearch-extension/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/PascalKleindienst/october-blogsearch-extension/?branch=master) [![Build Status](https://scrutinizer-ci.com/g/PascalKleindienst/october-blogsearch-extension/badges/build.png?b=master)](https://scrutinizer-ci.com/g/PascalKleindienst/october-blogsearch-extension/build-status/master)
+# Blog Search Extension [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/fiotech/blogsearch/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/fiotech/blogsearch/?branch=master) [![Build Status](https://scrutinizer-ci.com/g/fiotech/blogsearch/badges/build.png?b=master)](https://scrutinizer-ci.com/g/fiotech/blogsearch/build-status/master)
 This plugin is an extension to the [RainLab.Blog](https://github.com/rainlab/blog-plugin) plugin. With this extension you can simply search the blog posts' title and content and display the search results
 
 #### Search Form
