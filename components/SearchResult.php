@@ -1,4 +1,4 @@
-<?php namespace Fiotech\BlogSearch\Components;
+<?php namespace Nolan\BlogSearch\Components;
 
 use Cms\Classes\ComponentBase;
 use Cms\Classes\Page;
@@ -11,7 +11,7 @@ use Redirect;
 /**
  * Search Result component
  * @see RainLab\Blog\Components\Posts
- * @package Fiotech\BlogSearch\Components
+ * @package Nolan\BlogSearch\Components
  */
 class SearchResult extends ComponentBase
 {
