@@ -31,3 +31,5 @@
   - Fixed an issue with post filtering when a category is to be "included" that doesn't have any blog posts yet by @Harti
 1.5.0:
   - Converting to Fiotech Fiotech project
+1.5.1:
+  - Fixed namespace from Plugin.php
