@@ -20,9 +20,9 @@ class Plugin extends PluginBase
     public function pluginDetails()
     {
         return [
-            'name'        => 'Blog Search',
-            'description' => 'Adds a search function to the blog',
-            'author'      => 'Fiotech',
+            'name'        => 'Fiotech Blogger',
+            'description' => 'Blog plugin for OctoberCMS develop by Fiotech',
+            'author'      => 'Nolan',
             'icon'        => 'icon-search',
             'homepage'    => 'https://github.com/fiotech/blogsearch'
         ];
@@ -34,8 +34,8 @@ class Plugin extends PluginBase
     public function registerComponents()
     {
         return [
-            'Fiotech\BlogSearch\Components\SearchForm'   => 'searchForm',
-            'Fiotech\BlogSearch\Components\SearchResult' => 'searchResult'
+            'Nolan\BlogSearch\Components\SearchForm'   => 'searchForm',
+            'Nolan\BlogSearch\Components\SearchResult' => 'searchResult'
         ];
     }
 
